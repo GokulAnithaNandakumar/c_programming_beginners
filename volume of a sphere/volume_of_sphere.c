@@ -1,14 +1,15 @@
 #include<stdio.h>
-// int main(){
-//     float pi = 3.1415;
-//     int r = 5;
-//     float volume = 4 * pi * r * r * r / 3; // We cant use **
-//     printf("The Volume is : %f", volume);
-//     printf("\nThe Volume is : %.3f", volume);
-//     return 0;
+// Any of the 2
+int main(){
+    float pi = 3.1415;
+    int r = 5;
+    float volume = 4 * pi * r * r * r / 3; // We cant use **
+    printf("The Volume is : %f", volume);
+    printf("\nThe Volume is : %.3f", volume);
+    return 0;
 
-// }
-//scan using input
+}
+//input using scanf
 int main(){
     float pi = 3.14;
     float r;
