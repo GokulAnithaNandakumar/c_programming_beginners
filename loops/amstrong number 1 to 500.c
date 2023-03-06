@@ -1,9 +1,7 @@
 //
 //  amstrong number 1 to 500.c
 //  loops
-//
-//  Created by Gokul Nandakumar on 19/02/23.
-//
+
 
 
 #include <stdio.h>
