@@ -1,9 +1,6 @@
 //
 //  factorial of first n numbers.c
 //  loops
-//
-//  Created by Gokul Nandakumar on 19/02/23.
-//
 
 #include <stdio.h>
 int factorial(int n){
