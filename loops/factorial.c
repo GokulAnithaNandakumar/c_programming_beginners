@@ -1,9 +1,6 @@
 //
 //  factorial.c
 //  loops
-//
-//  Created by Gokul Nandakumar on 19/02/23.
-//
 
 #include <stdio.h>
 int main(){
