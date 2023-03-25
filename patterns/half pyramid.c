@@ -1,9 +1,6 @@
 //
 //  half pyramid.c
 //  patterns
-//
-//  Created by Gokul Nandakumar on 20/02/23.
-//
 
 #include <stdio.h>
 int main(){
