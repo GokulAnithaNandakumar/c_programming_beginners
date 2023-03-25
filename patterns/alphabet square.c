@@ -12,7 +12,7 @@ int main(){
        
        for (int i = 65; i<=64+n; i++) {
            //typecasting
-           //        char a = (char)i;
+//            char a = (char)i;
            printf("%c", i);
        }
        printf("\n");}
