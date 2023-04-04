@@ -1,9 +1,6 @@
 //
 //  number square complex.c
 //  patterns
-//
-//  Created by Gokul Nandakumar on 21/02/23.
-//
 
 #include <stdio.h>
 int main(){
