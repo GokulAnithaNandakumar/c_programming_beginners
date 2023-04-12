@@ -1,5 +1,5 @@
 //
-//  star diamonf.c
+//  star diamond.c
 //  patterns
 
 #include <stdio.h>
