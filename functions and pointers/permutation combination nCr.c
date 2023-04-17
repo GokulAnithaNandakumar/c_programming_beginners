@@ -1,9 +1,6 @@
 //
 //  permutation combination nCr.c
 //  functions and pointers
-//
-//  Created by Gokul Nandakumar on 21/02/23.
-//
 
 #include "stdio.h"
 int fact(int n){
