@@ -2,33 +2,30 @@
 //  swap two numbers pointers pass by reference.c
 //  functions and pointers
 //
-//  Created by Gokul Nandakumar on 23/02/23.
+//  Created by Gokul Nandakumar
 //
 //
-//#include <stdio.h>
-//
-//void swap(int* x, int* y){
-//    int temp;
-//    temp=*x;  //temp=2
-//    *x=*y;    //a=9
-//    *y=temp;  //*y=2 -> b=2
-//    
-//  
-////    printf("The value of first number is: %d\n",a);
-////    printf("The value of second number is: %d\n",b);
-//    return ;
-//}
-//int main(){
-//    int a = 2;
-//    int b = 9;
-//   
-//    
-////    int sum =x+y;
-////    x=sum-x;
-////    y=sum-y;
-//    swap(&a,&b);
-//    printf("The value of a is: %d\n",a);
-//    printf("The value of b is: %d\n",b);
-//    return 0;
-//}
-//  
+#include <stdio.h>
+
+void swap(int* x, int* y){
+   int temp;
+   temp=*x;  //temp=2
+   *x=*y;    //a=9
+   *y=temp;  //*y=2 -> b=2
+
+   return ;
+}
+int main(){
+   int a = 2;
+   int b = 9;
+  
+   
+//    int sum =x+y;
+//    x=sum-x;
+//    y=sum-y;
+   swap(&a,&b);
+   printf("The value of a is: %d\n",a);
+   printf("The value of b is: %d\n",b);
+   return 0;
+}
+ 
