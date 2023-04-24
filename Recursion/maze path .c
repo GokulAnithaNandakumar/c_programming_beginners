@@ -1,9 +1,8 @@
 //
-//  maze path ***.c
+//  maze path.c
 //  Recursion
 //
-//  Created by Gokul Nandakumar on 28/02/23.
-//
+//  Created by Gokul Nandakumar
 
 #include <stdio.h>
 
