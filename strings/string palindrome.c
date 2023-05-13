@@ -2,8 +2,7 @@
 //  string palindrome.c
 //  strings
 //
-//  Created by Gokul Nandakumar on 13/05/23.
-//
+//  Created by Gokul Nandakumar
 
 #include <stdio.h>
 #include <string.h>
