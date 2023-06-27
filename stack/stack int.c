@@ -1,9 +1,8 @@
 //
 //  stack int.c
-//  da1 stack question
+//  stack question
 //
-//  Created by Gokul Nandakumar on 14/03/23.
-//
+//  Created by Gokul Nandakumar
 
 #include <stdio.h>
 #include <stdbool.h>
